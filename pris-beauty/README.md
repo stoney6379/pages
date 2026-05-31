@@ -9,15 +9,6 @@ npm install
 npm run dev
 ```
 
-## Cloudflare deployment
-
-This project is configured for Cloudflare Workers Static Assets.
-
-```bash
-npm run build
-npx wrangler deploy
-```
-
 ## Project structure
 
 - `index.html`: one-page site markup
